@@ -8,7 +8,7 @@
 			<key>After</key>
 			<string>copy-result</string>
 			<key>Image File</key>
-			<string>speechicon.png</string>
+			<string>icon.png</string>
 			<key>Shell Script File</key>
 			<string>add-hyphens.sh</string>
 			<key>Stoppable</key>
