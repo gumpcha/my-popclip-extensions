@@ -1,4 +1,3 @@
-Say
-===
+# HyphenList
 
-PopClip extension to speak the text aloud.
+Popclip Extension to prepend `- ` for each line of selected text and copy to clipboard.
