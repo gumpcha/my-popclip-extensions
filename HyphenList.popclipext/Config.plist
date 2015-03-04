@@ -10,7 +10,7 @@
 			<key>Image File</key>
 			<string>speechicon.png</string>
 			<key>Shell Script File</key>
-			<string>say.sh</string>
+			<string>add-hyphens.sh</string>
 			<key>Stoppable</key>
 			<true/>
 			<key>Title</key>
