@@ -5,6 +5,8 @@
 	<key>Actions</key>
 	<array>
 		<dict>
+			<key>After</key>
+			<string>copy-result</string>
 			<key>Image File</key>
 			<string>speechicon.png</string>
 			<key>Shell Script File</key>
