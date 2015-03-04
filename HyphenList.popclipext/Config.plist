@@ -20,7 +20,7 @@
 	<key>Extension Description</key>
 	<string>Prepend "- " for each line of selected text and copy to clipboard.</string>
 	<key>Extension Identifier</key>
-	<string>com.pilotmoon.popclip.extension.say</string>
+	<string>com.gumpcha.popclip.extension.hyphenlist</string>
 	<key>Extension Name</key>
 	<dict>
 		<key>en</key>
