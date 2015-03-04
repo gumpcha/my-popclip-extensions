@@ -14,19 +14,17 @@
 			<key>Stoppable</key>
 			<true/>
 			<key>Title</key>
-			<string>Say</string>
+			<string>HyphenList</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
-	<string>Speak the selected text aloud, using the system default voice. To change the voice, go to "Speech" in System Preferences.</string>
+	<string>Prepend "- " for each line of selected text and copy to clipboard.</string>
 	<key>Extension Identifier</key>
 	<string>com.pilotmoon.popclip.extension.say</string>
 	<key>Extension Name</key>
 	<dict>
 		<key>en</key>
-		<string>Say</string>
-		<key>fr</key>
-		<string>Lire</string>
+		<string>HyphenList</string>
 	</dict>
 	<key>Required Software Version</key>
 	<integer>693</integer>
